@@ -1,3 +1,5 @@
+// web scraping with puppeteer
+
 import puppeteer from "puppeteer";
 
 const getQuotes = async () => {
