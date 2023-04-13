@@ -1,4 +1,4 @@
-// web scraping with puppeteer
+// web scraping with puppeteer library
 
 import puppeteer from "puppeteer";
 
