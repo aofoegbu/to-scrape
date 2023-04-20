@@ -41,6 +41,7 @@ const getQuotes = async () => {
 
   // Display the quotes
   console.log(quotes);
+
   await page.click(".pager > .next > a");
   // Close the browser
   //   await browser.close();
