@@ -1,5 +1,7 @@
 // web scraping with puppeteer library
 
+// puppeteer is one of several libraries for web scraping
+
 import puppeteer from "puppeteer";
 
 const getQuotes = async () => {
